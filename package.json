@@ -1,6 +1,7 @@
 {
   "name": "beach-volley",
   "version": "1.0.0",
+  "homepage": "https://winixiii.github.io/akali4",
   "private": true,
   "scripts": {
     "dev": "vite",
