@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.nav-inner-shadow {
+  box-shadow: inset 0 40px 60px -10px rgba(0, 0, 0, 0.7);
+}
